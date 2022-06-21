@@ -1,6 +1,6 @@
 {
   "name": "custom-create-pr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A custom github action to create a pull request.",
   "main": "index.js",
   "scripts": {
